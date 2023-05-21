@@ -109,6 +109,7 @@ local L = setmetatable({
     php = { M.cxx_l, M.cxx_b },
     prisma = { M.cxx_l },
     proto = { M.cxx_l, M.cxx_b },
+    ps1 = { M.hash },
     quarto = { M.html, M.html },
     r = { M.hash }, -- R doesn't have block comments
     readline = { M.hash },
